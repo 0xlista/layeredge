@@ -307,3 +307,6 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [11:27:54 | 27-02-2025] ✅ Node started for 0x3431BC4F78e9Df8f999160D2E6fc7A40119E50B4
+[15:28:28 | 27-02-2025] Wallet Address: 0x3431BC4F78e9Df8f999160D2E6fc7A40119E50B4
+[15:28:28 | 27-02-2025] Node Points: 230752
+[15:28:28 | 27-02-2025] Last Claim Point: 27/02/2025 04:27:56
